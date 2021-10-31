@@ -1,2 +1,3 @@
 # Pedestrian-and-cars-detector
-You can put any video, you will just want to rename the video as "video.mp4" and put it in this repo's folder.
+press q to stop it 
+When stopped it will you if you want the output as a file or not, if yes type y or otherwise n
